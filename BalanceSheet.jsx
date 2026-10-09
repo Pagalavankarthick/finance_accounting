@@ -499,7 +499,7 @@ export default function BalanceSheet() {
             <div className="balance-profile">
 
               <div className="balance-avatar">
-                G
+                P
               </div>
 
               <div>
